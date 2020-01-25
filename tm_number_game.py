@@ -16,7 +16,7 @@ import random # create random number
 import math # power
 
 # These are the pins the display is connected to. Adjust accordingly.
-# In addition to these you need to connect to 5V and ground.
+# In addition to these you need to connect to 3.3V and ground.
 DIO = 17
 CLK = 21
 STB = 22
